@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627399733 source:d:\proiecte wellcode\modul 3\modificarea stringurilor\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627160672 source:d:\proiecte wellcode\modul 3\a doua linie\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

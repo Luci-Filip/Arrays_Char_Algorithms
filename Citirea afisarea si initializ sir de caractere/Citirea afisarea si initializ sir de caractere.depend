@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615220348 source:d:\proiecte wellcode\modul 3\citirea afisarea si initializ sir de caractere\main.cpp
+	<iostream>
+	<fstream>
+

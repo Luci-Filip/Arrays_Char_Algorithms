@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624042308 source:d:\proiecte wellcode\modul 3\lungimea medie a cuvintelor\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+

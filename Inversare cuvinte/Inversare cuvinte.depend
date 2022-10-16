@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628018146 source:d:\proiecte wellcode\modul 3\inversare cuvinte\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

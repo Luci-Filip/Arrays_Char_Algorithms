@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626804724 source:d:\proiecte wellcode\modul 3\subsecventa caractere\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

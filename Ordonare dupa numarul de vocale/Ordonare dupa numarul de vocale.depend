@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628013581 source:d:\proiecte wellcode\modul 3\ordonare dupa numarul de vocale\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

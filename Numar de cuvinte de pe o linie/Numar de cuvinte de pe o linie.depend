@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615319767 source:d:\proiecte wellcode\modul 3\numar de cuvinte de pe o linie\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

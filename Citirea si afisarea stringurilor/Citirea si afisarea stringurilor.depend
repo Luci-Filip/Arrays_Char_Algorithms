@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626984770 source:d:\proiecte wellcode\modul 3\citirea si afisarea stringurilor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
